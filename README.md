@@ -8,3 +8,9 @@ The program allows a user to input a person's information including first name, 
 - Download the Images folder under the Birthday Tracker folder.
 - Download all the Python files
 - Run Main.py
+
+# Images:
+![Home Page](https://github.com/Jdwalli/Birthday-Tracker/blob/master/Screenshots/HomePage.PNG)
+![Add A User Page](https://github.com/Jdwalli/Birthday-Tracker/blob/master/Screenshots/AddPage.PNG)
+![Example](https://github.com/Jdwalli/Birthday-Tracker/blob/master/Screenshots/Main.PNG)
+
